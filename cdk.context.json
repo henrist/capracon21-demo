@@ -1,0 +1,11 @@
+{
+  "availability-zones:account=607103741379:region=eu-central-1": [
+    "eu-central-1a",
+    "eu-central-1b",
+    "eu-central-1c"
+  ],
+  "hosted-zone:account=607103741379:domainName=cc21.henrist.dev:region=eu-central-1": {
+    "Id": "/hostedzone/Z04065143976NI2MUNWFA",
+    "Name": "cc21.henrist.dev."
+  }
+}
